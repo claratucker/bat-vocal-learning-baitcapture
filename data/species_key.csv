@@ -1,0 +1,99 @@
+Label,Genus_species,Genus,species,Family,Clade,Echo_binary,Echo_type,DSC,Foraging,Arthropods,Blood,Vertibrates,Fishes,Leaves,Nectar & pollen,Fruits
+LS_042,Cormura_brevirostris,Cormura,brevirostris,Emballonuridae,Emballonuroidea,Echo,,,,,,,,,,
+NBS_1062,Peropteryx_kappleri,Peropteryx,kappleri,Emballonuridae,Emballonuroidea,Echo,,,,,,,,,,
+NBS_1072,Rhynchonycteris_naso,Rhynchonycteris,naso,Emballonuridae,Emballonuroidea,Echo,,,,,,,,,,
+PE_143,Saccopteryx_bilineata,Saccopteryx,bilineata,Emballonuridae,Emballonuroidea,Echo,short broadband,,aerial,yes,,,,,,
+PE_157,Saccopteryx_leptura,Saccopteryx,leptura,Emballonuridae,Emballonuroidea,Echo,,,,,,,,,,
+TK19556,Musonycteris_harrisoni,Musonycteris,harrisoni,Phyllostomidae,Noctilionoidea,Echo,,,,,,,,,,
+PMV2473,Platalina_genovensium,Platalina,genovensium,Phyllostomidae,Noctilionoidea,Echo,,,,,,,,,,
+LS_010,Micronycteris_hirsuta,Micronycteris,hirsuta,Phyllostomidae,Noctilionoidea,Echo,,,,,,,,,,
+NBS_1059,Lophostoma_evotis,Lophostoma,evotis,Phyllostomidae,Noctilionoidea,Echo,,,,,,,,,,
+wing_punch,Stenoderma_rufum,Stenoderma,rufum,Phyllostomidae,Noctilionoidea,Echo,,,,,,,,,,
+128720,Lonchophylla_hesperia,Lonchophylla,hesperia,Phyllostomidae,Noctilionoidea,Echo,,,,,,,,,,
+NBS_1055,Pteronotus_davyi,Pteronotus,davyi,Mormoopidae,Noctilionoidea,Echo,,,,,,,,,,
+NBS_1074,Lampronycteris_brachyotis,Lampronycteris,brachyotis,Phyllostomidae,Noctilionoidea,Echo,,,,,,,,,,
+TK20658,Leptonycteris_curasoae,Leptonycteris,curasoae,Phyllostomidae,Noctilionoidea,Echo,,,,,,,,,,
+NBS_1061,Chrotopterus_auritus,Chrotopterus,auritus,Phyllostomidae,Noctilionoidea,Echo,,,,,,,,,,
+109543,Noctilio_albiventris,Noctilio,albiventris,Noctilionidae,Noctilionoidea,Echo,,,,,,,,,,
+560774,Lonchorhina_inusitata,Lonchorhina,inusitata,Phyllostomidae,Noctilionoidea,Echo,,,,,,,,,,
+185892,Platyrrhinus_lineatus,Platyrrhinus,lineatus,Phyllostomidae,Noctilionoidea,Echo,,,,,,,,,,
+LS_019,Phyllostomus_helleri,Phyllostomus,helleri,Phyllostomidae,Noctilionoidea,Echo,,,,,,,,,,
+DR_001,Artibeus_jamaicensis,Artibeus,jamaicensis,Phyllostomidae,Noctilionoidea,Echo,Short broadband,,Gleaning,yes,,,,yes,yes,yes
+109531,Macrophyllum_macrophyllum,Macrophyllum,macrophyllum,Phyllostomidae,Noctilionoidea,Echo,,,,,,,,,,
+174707,Enchisthenes_hartii,Enchisthenes,hartii,Phyllostomidae,Noctilionoidea,Echo,,,,,,,,,,
+PE_171,Lionycteris_spurrelli,Lionycteris,spurrelli,Phyllostomidae,Noctilionoidea,Echo,Short broadband,,Gleaning,yes,,,,,yes,yes
+PE_152,Chiroderma_villosum,Chiroderma,villosum,Phyllostomidae,Noctilionoidea,Echo,Short broadband,,Gleaning,yes,,,,,yes,yes
+PE_150,Mesophylla_macconnelli,Mesophylla,macconnelli,Phyllostomidae,Noctilionoidea,Echo,Short broadband,,Gleaning,,,,,,,yes
+PE_091,Phyllostomus_hastatus,Phyllostomus,hastatus,Phyllostomidae,Noctilionoidea,Echo,Short broadband,,Gleaning,yes,,yes,,yes,yes,yes
+PE_153,Vampyrodes_caraccioli,Vampyrodes,caraccioli,Phyllostomidae,Noctilionoidea,Echo,Short broadband,,Gleaning,yes,,,,,yes,yes
+DR_091,Mormoops_blainvillei,Mormoops,blainvillei,Mormoopidae,Noctilionoidea,Echo,Narrowband,,Aerial,yes,,,,,,
+DR_122,Brachyphylla_pumila,Brachyphylla,pumila,Phyllostomidae,Noctilionoidea,Echo,Short broadband,,Gleaning,,yes,,,,yes,yes
+PE_005,Artibeus_fraterculus,Artibeus,fraterculus,Phyllostomidae,Noctilionoidea,Echo,Short broadband,,Gleaning,yes,,,,,,yes
+PE_023,Anoura_geoffroyi,Anoura,geoffroyi,Phyllostomidae,Noctilionoidea,Echo,Short broadband,,Gleaning,yes,,,,,yes,yes
+NBS_1175,Desmodus_rotundus,Desmodus,rotundus,Phyllostomidae,Noctilionoidea,Echo,,,,,,,,,,
+PE_019,Sturnira_ludovici,Sturnira,ludovici,Phyllostomidae,Noctilionoidea,Echo,Short broadband,,Gleaning,,,,,,,yes
+PE_111,Carollia_brevicauda,Carollia,brevicauda,Phyllostomidae,Noctilionoidea,Echo,Short broadband,,Gleaning,yes,,,,,yes,yes
+PE_139,Rhinophylla_pumilio,Rhinophylla,pumilio,Phyllostomidae,Noctilionoidea,Echo,Short broadband,,Gleaning,yes,,,,,yes,yes
+DR_101,Noctilio_leporinus,Noctilio,leporinus,Noctilionidae,Noctilionoidea,Echo,CF,yes,Trawling,yes,,,yes,,,yes
+NBS_1085,Mormoops_megalophylla,Mormoops,megalophylla,Mormoopidae,Noctilionoidea,Echo,,,,,,,,,,
+NBS_1054,Micronycteris_microtis,Micronycteris,microtis,Phyllostomidae,Noctilionoidea,Echo,,,,,,,,,,
+560781,Sphaeronycteris_toxophyllum,Sphaeronycteris,toxophyllum,Phyllostomidae,Noctilionoidea,Echo,,,,,,,,,,
+NBS_1170,Desmodus_rotundus,Desmodus,rotundus,Phyllostomidae,Noctilionoidea,Echo,Short broadband,,Gleaning,,yes,,,,,
+DR_003,Phyllops_falcatus,Phyllops,falcatus,Phyllostomidae,Noctilionoidea,Echo,Short broadband,,Gleaning,,,,,,,yes
+PE_109,Phyllostomus_elongatus,Phyllostomus,elongatus,Phyllostomidae,Noctilionoidea,Echo,Short broadband,,Gleaning,yes,,yes,,,yes,yes
+22598,Lonchophylla_handleyi,Lonchophylla,handleyi,Phyllostomidae,Noctilionoidea,Echo,,,,,,,,,,
+15575,Ardops_nichollsi,Ardops,nichollsi,Phyllostomidae,Noctilionoidea,Echo,,,,,,,,,,
+PE_175,Uroderma_bilobatum,Uroderma,bilobatum,Phyllostomidae,Noctilionoidea,Echo,Short broadband,,Gleaning,,,yes,,,yes,yes
+103032,Pteronotus_parnellii,Pteronotus,parnellii,Mormoopidae,Noctilionoidea,Echo,CF,yes,Aerial,yes,,,,,,
+LS_108,Lophostoma_silvicolum,Lophostoma,silvicolum,Phyllostomidae,Noctilionoidea,Echo,,,,,,,,,,
+DR_085,Phyllonycteris_poeyi,Phyllonycteris,poeyi,Phyllostomidae,Noctilionoidea,Echo,Short broadband,,Gleaning,yes,,,,,yes,yes
+LS_073,Carollia_sowelli,Carollia,sowelli,Phyllostomidae,Noctilionoidea,Echo,,,,,,,,,,
+102698,Macrotus_waterhousii,Macrotus,waterhousii,Phyllostomidae,Noctilionoidea,Echo,Short broadband,,Gleaning,yes,,,,,,yes
+DR_040,Macrotus_waterhousii,Macrotus,waterhousii,Phyllostomidae,Noctilionoidea,Echo,Short broadband,,Gleaning,yes,,,,,,
+LS_084,Carollia_castanea,Carollia,castanea,Phyllostomidae,Noctilionoidea,Echo,,,,,,,,,,
+DR_086,Erophylla_bombifrons,Erophylla,bombifrons,Phyllostomidae,Noctilionoidea,Echo,Short broadband,,Gleaning,yes,,,,,yes,yes
+PE_084,Tonatia_saurophila,Tonatia,saurophila,Phyllostomidae,Noctilionoidea,Echo,Short broadband,,Gleaning,yes,,yes,,,,yes
+579154,Centurio_senex,Centurio,senex,Phyllostomidae,Noctilionoidea,Echo,,,,,,,,,,
+109708,Phylloderma_stenops,Phylloderma,stenops,Phyllostomidae,Noctilionoidea,Echo,,,,,,,,,,
+LS_045,Glyphonycteris_daviesi,Glyphonycteris,daviesi,Phyllostomidae,Noctilionoidea,Echo,,,,,,,,,,
+LS_116,Glossophaga_commissarisi,Glossophaga,commissarisi,Phyllostomidae,Noctilionoidea,Echo,,,,,,,,,,
+PE_174,Artibeus_bogotensis,Artibeus,bogotensis,Phyllostomidae,Noctilionoidea,Echo,Short broadband,,Gleaning,yes,,,,,yes,yes
+LS_061,Ectophylla_alba,Ectophylla,alba,Phyllostomidae,Noctilionoidea,Echo,,,,,,,,,,
+LS_085,Platyrrhinus_helleri,Platyrrhinus,helleri,Phyllostomidae,Noctilionoidea,Echo,,,,,,,,,,
+LS_086,Lichonycteris_obscura,Lichonycteris,obscura,Phyllostomidae,Noctilionoidea,Echo,,,,,,,,,,
+LS_099,Hylonycteris_underwoodi,Hylonycteris,underwoodi,Phyllostomidae,Noctilionoidea,Echo,,,,,,,,,,
+LS_070,Carollia_perspicillata,Carollia,perspicillata,Phyllostomidae,Noctilionoidea,Echo,Short broadband,,Gleaning,yes,,,,,yes,yes
+DR_013,yes,Monophyllus,redmani,Phyllostomidae,Noctilionoidea,Echo,Short broadband,,Gleaning,yes,,,,,yes,
+NBS_1049,Artibeus_phaeotis,Artibeus,phaeotis,Phyllostomidae,Noctilionoidea,Echo,,,,,,,,,,
+PE_095,Gardnerycteris_crenulatum,Gardnerycteris,crenulatum,Phyllostomidae,Noctilionoidea,Echo,Short broadband,,Gleaning,yes,,,,,,yes
+DR_041,Pteronotus_quadridens,Pteronotus,quadridens,Mormoopidae,Noctilionoidea,Echo,Narrowband,,Aerial,yes,,,,,,
+PE_135,Rhinophylla_fischerae,Rhinophylla,fischerae,Phyllostomidae,Noctilionoidea,Echo,Short broadband,,Gleaning,yes,,,,,yes,yes
+ACM_002,Artibeus_lituratus,Artibeus,lituratus,Phyllostomidae,Noctilionoidea,Echo,,,,,,,,,,
+ACM_005,Uroderma_bilobatum,Uroderma,bilobatum,Phyllostomidae,Noctilionoidea,Echo,Short broadband,,Gleaning,,,yes,,,yes,yes
+PE_105,Sturnira_tildae,Sturnira,tildae,Phyllostomidae,Noctilionoidea,Echo,Short broadband,,Gleaning,yes,,,,,yes,yes
+PE_022,Glossophaga_soricina,Glossophaga,soricina,Phyllostomidae,Noctilionoidea,Echo,Short broadband,,Gleaning,yes,,yes,,yes,yes,yes
+162520,Pygoderma_bilabiatum,Pygoderma,bilabiatum,Phyllostomidae,Noctilionoidea,Echo,,,,,,,,,,
+174916,Thyroptera_lavali,Thyroptera,lavali,Thyropteridae,Noctilionoidea,Echo,,,,,,,,,,
+109328,Diphylla_ecaudata,Diphylla,ecaudata,Phyllostomidae,Noctilionoidea,Echo,,,,,,,,,,
+161225,Sturnira_lilium,Sturnira,lilium,Phyllostomidae,Noctilionoidea,Echo,,,,,,,,,,
+117667,Brachyphylla_cavernarum,Brachyphylla,cavernarum,Phyllostomidae,Noctilionoidea,Echo,,,,,,,,,,
+150521,Choeroniscus_godmani,Choeroniscus,godmani,Phyllostomidae,Noctilionoidea,Echo,,,,,,,,,,
+91564,Mimon_cozumelae,Mimon,cozumelae,Phyllostomidae,Noctilionoidea,Echo,,,,,,,,,,
+109316,Mimon_cozumelae,Mimon,cozumelae,Phyllostomidae,Noctilionoidea,Echo,,,,,,,,,,
+NBS_1060,Trachops_cirrhosus,Trachops,cirrhosus,Phyllostomidae,Noctilionoidea,Echo,,,,,,,,,,
+MSB 272277,Choeronycteris_mexicana,Choeronycteris,mexicana,Phyllostomidae,Noctilionoidea,Echo,,,,,,,,,,
+110477,Vampyrum_spectrum,Vampyrum,spectrum,Phyllostomidae,Noctilionoidea,Echo,,,,,,,,,,
+109557,Hsunycteris_thomasi,Hsunycteris,thomasi,Phyllostomidae,Noctilionoidea,Echo,,,,,,,,,,
+2015303,Macroglossus_minimus,Macroglossus,minimus,Pteropodidae,Pteropodidae,NoEcho,,,,,,,,,,
+2015314,Rousettus_amplexicaudatus,Rousettus,amplexicaudatus,Pteropodidae,Pteropodidae,Click,,,,,,,,,,
+SMT222,Ptenochirus_jagori,Ptenochirus,jagori,Pteropodidae,Pteropodidae,NoEcho,,,,,,,,,,
+2015300,Cynopterus_brachyotis,Cynopterus,brachyotis,Pteropodidae,Pteropodidae,NoEcho,,,,,,,,,,
+20059,Pteropus_hypomelanus,Pteropus,hypomelanus,Pteropodidae,Pteropodidae,NoEcho,,,,,,,,,,
+20285,Pteropus_temminckii,Pteropus,temminckii,Pteropodidae,Pteropodidae,NoEcho,,,,,,,,,,
+PMV2477,Tomopeas_ravus,Tomopeas,ravus,Molossidae,Vespertilionoidea,Echo,,,,,,,,,,
+NBS_1086,Bauerus_dubiaquercus,Bauerus,dubiaquercus,Vespertilionidae,Vespertilionoidea,Echo,,,,,,,,,,
+LS_037,Rhogeessa_tumida,Rhogeessa,tumida,Vespertilionidae,Vespertilionoidea,Echo,,,,,,,,,,
+PE_003,Myotis_albescens,Myotis,albescens,Vespertilionidae,Vespertilionoidea,Echo,,,,,,,,,,
+DR_075,Eptesicus_fuscus,Eptesicus,fuscus,Vespertilionidae,Vespertilionoidea,Echo,,,,,,,,,,
+PE_078,Molossus_molossus,Molossus,molossus,Molossidae,Vespertilionoidea,Echo,short broadband,,aerial,yes,,,,,,
+DR_125,Chilonatalus_micropus,Chilonatalus,micropus,Natalidae,Vespertilionoidea,Echo,short broadband,,aerial,yes,,,,,,
