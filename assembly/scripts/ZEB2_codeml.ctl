@@ -1,0 +1,15 @@
+seqfile = trimmed_tAlign_combined3_tAlign.phylip
+treefile = species_tree_combined3_0425.txt
+outfile = ZEB2_CODEML_output
+noisy = 3
+verbose = 1
+runmode = 0
+seqtype = 1
+CodonFreq = 2
+clock = 0
+model = 2
+NSsites = 2
+icode = 0
+fix_omega = 0
+omega = .4
+cleandata = 0
