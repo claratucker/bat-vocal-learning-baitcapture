@@ -1,0 +1,9 @@
+*.fastq.gz
+*.fastq
+*.bam
+*.fasta.gz
+*.gz
+*.zip
+*.log
+__pycache__/
+.DS_Store
